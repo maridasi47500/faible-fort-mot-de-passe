@@ -14,7 +14,7 @@ faible ou fort mot de passe
 - name
 
 - ce que j'ai comme idée
-
+- biometrics
 - difficile
 - autre projet
 - future voyage, future job
