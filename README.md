@@ -13,8 +13,8 @@ faible ou fort mot de passe
 - homr address
 - name
 
-- ce que j'ai comme idée
-- biometrics for the purpose of security
+- place i like to visit in my city
+- AI in Digital Identity Security, biometrics for the purpose of security
 - difficile
 - autre projet
 - plan a voyage
