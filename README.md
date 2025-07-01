@@ -3,7 +3,7 @@ faible ou fort mot de passe
 - digital /identitte numerique
 - password
 - id
-- baknk card
+- bank card
 - taille
 - car registration
 - income tax no
@@ -17,4 +17,5 @@ faible ou fort mot de passe
 - biometrics
 - difficile
 - autre projet
-- future voyage, future job
+- plan a voyage
+- plan a job
