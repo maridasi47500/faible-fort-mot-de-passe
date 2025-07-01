@@ -14,3 +14,6 @@ faible ou fort mot de passe
 - name
 
 - ce que j'ai comme idée
+
+- difficile
+- autre projet
