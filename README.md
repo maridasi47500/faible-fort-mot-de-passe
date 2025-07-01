@@ -13,8 +13,11 @@ faible ou fort mot de passe
 - homr address
 - name
 
+
+
 - place i like to visit in my city
 - AI in Digital Identity Security, biometrics for the purpose of security
+- AI Doppelgangers
 - difficile
 - autre projet
 - plan a voyage
