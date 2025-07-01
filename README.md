@@ -14,7 +14,7 @@ faible ou fort mot de passe
 - name
 
 - ce que j'ai comme idée
-- biometrics
+- biometrics for the purpose of security
 - difficile
 - autre projet
 - plan a voyage
