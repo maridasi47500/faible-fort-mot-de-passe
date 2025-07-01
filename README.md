@@ -17,3 +17,4 @@ faible ou fort mot de passe
 
 - difficile
 - autre projet
+- future voyage, future job
